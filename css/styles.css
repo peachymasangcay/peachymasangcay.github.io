@@ -6,7 +6,7 @@ body {
 .jumbotron {
     padding-top:50px;
     margin-bottom: 0px;
-    background-image: url(../imgs/header1.jpg);
+    background-image: url(../imgs/header0.jpg);
     width: auto;
     background-position: 0% 25%;
     background-size: 100% 100%;
@@ -27,7 +27,6 @@ body {
   text-shadow: black 0.3em 0.3em 0.3em;
   }
 
-
  #home
   {
     height: 100vh;
@@ -36,11 +35,7 @@ body {
 
   }
 
-
-  #Awards
-  {
-    padding-top:50px;
-    height:100vh;
+  #Awards{
     color: white;
     background-color: black;
 
@@ -56,7 +51,7 @@ body {
   .jumbotron2 {
     padding-top:50px;
     margin-bottom: 0px;
-    background-image: url(../imgs/header2.jpg);
+    background-color:black;
     width: auto;
     background-position: 0% 25%;
     background-size: 100% 100%;
@@ -108,4 +103,10 @@ body {
 .panel-group{
     width: 50%;
     margin-left:25%;
+  }
+#Contact
+  {
+    background-color: grey;
+    color: black
+
   }
