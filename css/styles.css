@@ -1,0 +1,111 @@
+
+body {
+      position: relative;
+  }
+  
+.jumbotron {
+    padding-top:50px;
+    margin-bottom: 0px;
+    background-image: url(../imgs/header1.jpg);
+    width: auto;
+    background-position: 0% 25%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0!important;
+    background-attachment: fixed;
+}
+
+.blue{
+  color:skyblue;
+}
+
+.white{
+  color:white;
+  font-family: 'Lobster', cursive;
+  font-family: 'Anton', sans-serif;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  }
+
+
+ #home
+  {
+    height: 100vh;
+    -webkit-animation-duration:3s;
+    -webkit-animation-iteration-count: 10;
+
+  }
+
+
+  #Awards
+  {
+    padding-top:50px;
+    height:100vh;
+    color: white;
+    background-color: black;
+
+  }
+
+  #About{
+    font-family: verdana;
+    font-size: 16px;
+    padding-top:20px;
+    height:100vh;
+    color: white;
+  }
+  .jumbotron2 {
+    padding-top:50px;
+    margin-bottom: 0px;
+    background-image: url(../imgs/header2.jpg);
+    width: auto;
+    background-position: 0% 25%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0!important;
+    background-attachment: fixed;
+} 
+  #Resume{
+  	padding-top:50px;
+  	height:100vh;
+  	color: white;
+  	background-color: black;
+  }
+  #SW {
+  	padding-top:50px;
+  	height:100vh;
+  	color: black;
+  	background-color: white;
+  }
+
+#tn-size{
+  opacity: 0.4;
+  filter:alpha(opacity=40);
+  width: 20%;
+}
+.photosfromlastyear .modalphotos #tn-size:hover{
+  opacity: 1.0;
+}
+.img-thumbnail{
+  margin: auto;
+  text-align: center;
+}
+#modalimage{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: auto;
+  height: 100vh;
+}
+#img-center{
+  text-align: center;
+
+
+}
+#img-center2{
+  text-align: center;
+}
+.panel-group{
+    width: 50%;
+    margin-left:25%;
+  }
